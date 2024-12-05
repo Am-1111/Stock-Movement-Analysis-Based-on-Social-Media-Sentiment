@@ -1,5 +1,6 @@
 ## Twitter Sentiment Analysis 
-![Twitter Sentiment Analysis](https://raw.githubusercontent.com/you915/Sentiment-Analysis-of-Twitter-Data-for-predicting-Apple-stock-price/master/Images/twitter-stock-market.jpg)
+![Twitter Sentiment Analysis](
+
 
 # Stock Movement Analysis Based on Social Media Sentiment
 
