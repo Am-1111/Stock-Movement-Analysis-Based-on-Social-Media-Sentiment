@@ -1,5 +1,5 @@
 ## Twitter Sentiment Analysis 
-![Twitter Sentiment Analysis](
+![Twitter Sentiment Analysis](![image](https://github.com/user-attachments/assets/147521df-0860-4fee-b738-52dcf7e2913b)
 
 
 # Stock Movement Analysis Based on Social Media Sentiment
